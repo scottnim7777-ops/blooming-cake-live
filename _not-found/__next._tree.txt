@@ -1,2 +1,2 @@
-:HL["/blooming-cake-live/_next/static/chunks/0sgmckmz064pb.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"8u4VKI5lY4GsWF_aNq2sH"}
+:HL["/blooming-cake-live/_next/static/chunks/1nr9flk2lsu4c.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"AMfEzwkDRsO6rGRxrhKQR"}
