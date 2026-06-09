@@ -2,4 +2,4 @@
 2:I[39756,["/blooming-cake-live/_next/static/chunks/42_r38r7c-ojb.js","/blooming-cake-live/_next/static/chunks/0j-2nzn-e3qic.js","/blooming-cake-live/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
 3:I[37457,["/blooming-cake-live/_next/static/chunks/42_r38r7c-ojb.js","/blooming-cake-live/_next/static/chunks/0j-2nzn-e3qic.js","/blooming-cake-live/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
 4:[]
-0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"D1LTsnUbyb4WK7orYdo4s"}
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"bY9H1QXpc6uMGb3ODvnwJ"}
