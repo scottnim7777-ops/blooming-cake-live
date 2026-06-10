@@ -2,4 +2,4 @@
 2:I[39756,["/blooming-cake-live/_next/static/chunks/2w2-4-akl7o8l.js","/blooming-cake-live/_next/static/chunks/3ivyg74_4fk0b.js","/blooming-cake-live/_next/static/chunks/14mrh2-p_w84d.js","/blooming-cake-live/_next/static/chunks/39rfk3gm0bhpb.js"],"default"]
 3:I[37457,["/blooming-cake-live/_next/static/chunks/2w2-4-akl7o8l.js","/blooming-cake-live/_next/static/chunks/3ivyg74_4fk0b.js","/blooming-cake-live/_next/static/chunks/14mrh2-p_w84d.js","/blooming-cake-live/_next/static/chunks/39rfk3gm0bhpb.js"],"default"]
 4:[]
-0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"WdoTRAW83XyeFf7bjIWqu"}
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"sE190KM0kI2wqCgFQYOkD"}
