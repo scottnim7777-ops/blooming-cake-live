@@ -1,7 +1,7 @@
-:HL["/blooming-cake-live/_next/static/chunks/2996zwe9ybnfe.css","style"]
+:HL["/blooming-cake-live/_next/static/chunks/1_fqff9b25pnp.css","style"]
 :HL["/blooming-cake-live/_next/static/media/03bda585a99c6450-s.p.32sris142tqlb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/blooming-cake-live/_next/static/media/2a65768255d6b625-s.p.3u4lli0-axodc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/blooming-cake-live/_next/static/media/308823598d090913-s.p.1o-9h6wxnmd7v.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/blooming-cake-live/_next/static/media/3c7c6164b2587822-s.p.16u3vygyjnhr0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/blooming-cake-live/_next/static/media/a343f882a40d2cc9-s.p.1sj6eobyi31rd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"product","param":null,"prefetchHints":0,"slots":{"children":{"name":"id","param":{"type":"d","key":"soccer","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"eauEvr_59h-dvBWczO8ib"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"product","param":null,"prefetchHints":0,"slots":{"children":{"name":"id","param":{"type":"d","key":"soccer","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"_SDzvI3hKOvuIl-WyXaNR"}
