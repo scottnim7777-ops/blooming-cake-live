@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+Disallow: /admin
+
+Sitemap: https://scottnim7777-ops.github.io/blooming-cake-live/sitemap.xml
