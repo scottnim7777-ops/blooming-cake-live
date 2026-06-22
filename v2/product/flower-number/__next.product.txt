@@ -2,4 +2,4 @@
 2:I[39756,["/blooming-cake-live/v2/_next/static/chunks/3yv7jdwev8tjz.js","/blooming-cake-live/v2/_next/static/chunks/25w2ovn5z31ro.js","/blooming-cake-live/v2/_next/static/chunks/14mrh2-p_w84d.js","/blooming-cake-live/v2/_next/static/chunks/1s3q6150xxa5y.js"],"default"]
 3:I[37457,["/blooming-cake-live/v2/_next/static/chunks/3yv7jdwev8tjz.js","/blooming-cake-live/v2/_next/static/chunks/25w2ovn5z31ro.js","/blooming-cake-live/v2/_next/static/chunks/14mrh2-p_w84d.js","/blooming-cake-live/v2/_next/static/chunks/1s3q6150xxa5y.js"],"default"]
 4:[]
-0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"kD11NIlYz5TpNWbF4pni2"}
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"_vm1hfp1cz102jBBwVkul"}
