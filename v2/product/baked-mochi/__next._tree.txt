@@ -1,5 +1,5 @@
-:HL["/blooming-cake-live/v2/_next/static/chunks/0h7a1ry895tt_.css","style"]
+:HL["/blooming-cake-live/v2/_next/static/chunks/1q6k_g9ks-mne.css","style"]
 :HL["/blooming-cake-live/v2/_next/static/media/1a072933b891bea6-s.p.0xw0t0hr1xcps.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/blooming-cake-live/v2/_next/static/media/2a65768255d6b625-s.p.3u4lli0-axodc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/blooming-cake-live/v2/_next/static/media/8226f95c76ce3702-s.p.1i89qv3i6sl35.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"product","param":null,"prefetchHints":0,"slots":{"children":{"name":"id","param":{"type":"d","key":"baked-mochi","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"XA2T1ZJ40ndgGNZTVmpVt"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"product","param":null,"prefetchHints":0,"slots":{"children":{"name":"id","param":{"type":"d","key":"baked-mochi","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"G4mp62IiLQg6LW1khIMqw"}
